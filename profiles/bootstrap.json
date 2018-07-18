@@ -10,6 +10,7 @@
       "coreos.first_boot=yes",
       "console=tty0",
       "console=ttyS0",
+      "console=ttyS1",
       "coreos.autologin"
     ]
   },
